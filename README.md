@@ -1,15 +1,17 @@
-1. U need python version 3.8+
-  Use pyenv https://github.com/pyenv/pyenv
+1. Треба python версії 3.8+
+  Бери pyenv
+  >> https://github.com/pyenv/pyenv
   >> https://realpython.com/intro-to-pyenv/
-2. Install pip (yet another package manager)
+2. Треба pip (yet another package manager)
   >> https://pip.pypa.io/en/stable/installing/
-3. Install requirements
+3. Залежності
   >> pip (or pip3) install -r requirements.txt
 
-Run
+Гони!
 >> python3 oko_main.py
 
-Run
+Вйо!
 >> python3 mova_main.py
 
-Look if checkpoints are saved through training.
+Слідкуй за chtckpoints/ чи модельки зберігаються
+Ну дані...
