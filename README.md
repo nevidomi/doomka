@@ -1,9 +1,12 @@
-1. Install python3 
-2. Install pip3
-3. Install requirements 
-  >> pip3 install -r requirements.txt
+1. U need python version 3.8+
+  Use pyenv https://github.com/pyenv/pyenv
+  >> https://realpython.com/intro-to-pyenv/
+2. Install pip (yet another package manager)
+  >> https://pip.pypa.io/en/stable/installing/
+3. Install requirements
+  >> pip (or pip3) install -r requirements.txt
 
-Run 
+Run
 >> python3 oko_main.py
 
 Run
