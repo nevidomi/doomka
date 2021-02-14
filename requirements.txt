@@ -17,7 +17,6 @@ pyparsing==2.4.7
 python-dateutil==2.8.1
 requests==2.25.1
 six==1.15.0
-tensorflow-metadata==0.27.0
 termcolor==1.1.0
 tfds-nightly==4.2.0.dev202102020107
 torch==1.7.1
